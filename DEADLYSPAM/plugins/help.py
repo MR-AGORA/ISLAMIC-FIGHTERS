@@ -9,9 +9,9 @@ hl = config.CMD_HNDLR
  
 HELP_PIC = "https://telegra.ph/file/46d7b153e36f36454269e.jpg"
 
-DEAD_HELP = "🔥 ғᴄʀ x ᴛᴇᴀᴍ ᴀɢᴏʀᴀ ғɪɢʜᴛᴇʀs🔥\n\n"
+DEAD_HELP = "🔥 ɪsʟᴀᴍɪᴄ ғɪɢʜᴛᴇʀs ᴏᴘ x ғᴄʀ x ᴛᴇᴀᴍ ᴀɢᴏʀᴀ ғɪɢʜᴛᴇʀs🔥\n\n"
  
-DEAD_HELP += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
+DEAD_HELP += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴀɢᴏʀᴀ ʙᴏᴛ__\n\n"
 
 DEAD_HELP += f" ↧ sᴘᴀᴍʙᴏᴛ 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -33,5 +33,5 @@ DEAD_HELP += f"© @Do_Jism_ek_jaan_op\n"
 @BOT0.on(events.NewMessage(incoming=True, pattern='/help'))
 async def help(event):               
     if event.sender_id in SUDOERS:
-       blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/aboutagora"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/fcr_team_agora_fighter")]]
+       blaze = [[Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/aboutagora"), Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/agoraworld")]]
        await BOT0.send_file(event.chat_id, HELP_PIC, caption=DEAD_HELP, buttons=blaze) 
