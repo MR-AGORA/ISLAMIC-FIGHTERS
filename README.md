@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[𝗙𝗖𝗥 𝗫 𝗧𝗘𝗔𝗠 𝗔𝗚𝗢𝗥𝗔👮](https://t.me/DO_JISM_EK_JAAN_OP)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝗔𝗚𝗢𝗥𝗔ᥫʀ᭡](https://t.me/MR_AGORA)
+# 「[ISLAMIC FIGHTERS OP👮](https://t.me/AGORAWORLD)」
+Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝗔𝗚𝗢𝗥𝗔ᥫʀ᭡](https://t.me/KANNADIGAXD)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -8,7 +8,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝗔𝗚𝗢𝗥𝗔ᥫʀ᭡](https://t.me/MR_AGOR
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
 </p> 
 
-![logo](https://telegra.ph/file/46d7b153e36f36454269e.jpg)
+![logo](https://graph.org/file/df5202267a59d2b4a06f5.jpg)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Hᴏsᴛɪɴɢ
@@ -18,7 +18,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝗔𝗚𝗢𝗥𝗔ᥫʀ᭡](https://t.me/MR_AGOR
 
 ###    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TAXFCR/SPAM"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MR-AGORA/ISLAMIC-FIGHTERS"> <img src="https://img.shields.io/badge/Deadly%20On%20Heroku-Blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -36,6 +36,6 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝗔𝗚𝗢𝗥𝗔ᥫʀ᭡](https://t.me/MR_AGOR
 
 # CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Team-Deadly/DEADLY-SPAMBOT)
+![GitHub Contributors Image](https://heroku.com/deploy?template=https://github.com/MR-AGORA/ISLAMIC-FIGHTERS)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
